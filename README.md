@@ -1,2 +1,1 @@
-# searchGoogleBooks
-React app to search Google Books
+# Count-Stockula
